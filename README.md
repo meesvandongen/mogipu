@@ -41,7 +41,7 @@ The gitlab token is a Gitlab Access token that has permissions to read the regis
 {
   // Required, the path to the dynamic Gitlab CI file part.
   "gitlabCiFile": "path/to/file",
-  // Optional, defaults to "gitlab-ci.yml"
+  // Optional, defaults to the name in the package.json file.
   "imageName": "image-name"
 }
 ```
