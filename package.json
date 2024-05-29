@@ -1,7 +1,7 @@
 {
   "name": "mogipu",
   "module": "./src/index.ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "devDependencies": {
     "@types/lodash.set": "^4.3.9",
@@ -18,7 +18,6 @@
     "yaml": "^2.4.2",
     "yaml-diff-patch": "^2.0.0",
     "zod": "^3.23.8",
-    "zod-error": "^1.5.0",
     "zod-validation-error": "^3.3.0"
   },
   "scripts": {
