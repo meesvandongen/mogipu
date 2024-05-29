@@ -8,7 +8,7 @@ Monorepo Gitlab Image Publisher.
 ## Installation
 
 ```bash
-npm install -g mogipu
+bun install mogipu
 ```
 
 ## Usage
